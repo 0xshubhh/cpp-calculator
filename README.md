@@ -11,3 +11,7 @@ A menu-driven calculator built using C++.
 - Functions
 - Switch Case
 - Loops
+
+## How to Run
+1. Compile: g++ calculator.cpp -o calc
+2. Run: ./calc
